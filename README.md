@@ -10,3 +10,6 @@ Steps to use:
 1. Open the ExplorerPasteHelper app and keep it open
 2. In Windows photos app, press CTRL + SHIFT + C to copy the photo file path to the clipboard. ExplorerPasteHelper will automatically make it available as a paste option in Windows Explorer.
 3. Paste the photo in Explorer.
+
+# Download
+Download the application from under the Releases section on Github.
